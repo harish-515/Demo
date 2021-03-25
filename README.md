@@ -5,7 +5,4 @@ Added a new line to the file.
 
 # Feature Related Changes
 
-qqqqqqqqqqqqqqqqqqqqqqqqqqqqq
-qqqqqqqqqqqqqqqqqqqqqqqqqqqqq
-
-some more changes
+made changes on very bad branch
