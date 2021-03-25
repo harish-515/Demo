@@ -6,3 +6,4 @@ Added a new line to the file.
 # Feature Related Changes
 
 Changes on master branch
+modified this for stashing
